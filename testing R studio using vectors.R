@@ -1,4 +1,4 @@
-# codes for creating vectors using c()function()
+#codes for creating vectors using c()function()
   
   z<-c(1, 2)          #Numeric
   z<-c(TRUE,FALSE)    #logical
